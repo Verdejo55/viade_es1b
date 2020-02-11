@@ -11,3 +11,9 @@ This project is an assignment for the [Software Architecture course](https://arq
 The app is deployed at [https://arquisoft.github.io/viade_es1b/](https://arquisoft.github.io/viade_es1b/) which also contains a [technical documentation](https://arquisoft.github.io/viade_es1b/docs).
 
 More information about how this project has been setup is available [in the wiki](https://github.com/Arquisoft/viade_es1b/wiki).
+
+Jorge Gutierrez Lozano
+Xurde Mares Omar
+Mario Miguel Blanco
+Marcial Rico Pozas
+Alberto Verdejo Rodriguez
